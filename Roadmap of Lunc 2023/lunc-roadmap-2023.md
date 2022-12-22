@@ -11,4 +11,4 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 # Drive Adoption
 # Source a dedicated professional Dev team
 # Budgeting
-# procurement
+# Procurement
