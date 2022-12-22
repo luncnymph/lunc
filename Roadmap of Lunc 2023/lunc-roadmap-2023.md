@@ -9,6 +9,6 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 
 # Repeg $USTC, Timeline
 # Drive Adoption
-# Source a dedicated professional Dev team
+# Source a dedicated professional devs team
 # Budgeting
 # Procurement
