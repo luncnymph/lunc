@@ -1,4 +1,4 @@
- 
+ <img width="108" alt="logo" src="https://user-images.githubusercontent.com/116828797/209113042-f1244953-6853-4b70-b1d0-0d993ca16c65.png">
 Dear #lunc Community
 	
 As a community member and validator, I am trying to draft this roadmap for #lunc in 2023 and beyond. I welcome anyone to edit by making a pull request.
