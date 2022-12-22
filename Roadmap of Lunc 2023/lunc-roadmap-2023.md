@@ -7,8 +7,8 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 #lunc was born out of a disaster that everyone of us know back in May after TFL partially abandoned it. A group of volunteers called Terra Rebels came in to rescue it as the chain underwent some surgeries during the depeg including disabling IBC and marketSwap to stop minting and market arbitrage. Meanwhile the acceptance of new validators was closed to protect the existing ones who stayed to keep the chain alive given that the price of $lunc was falling to almost 0. 
 
 
-# Repeg $USTC, Timeline
-# Drive Adoption
+# Repeg $USTC w/ timeline
+# Drive Aaoption
 # Source a dedicated professional devs team
 # Budgeting
 # Procurement
