@@ -25,9 +25,8 @@ S02: when the price of ustc on CEX is above, mint ustc into the market pool.
 **Prerequist:** 
 1. leverage commutity lunc and ustc to build the Market pool
 2. The current burn tax policy doesn't change.
-3. <span style="color:red">
- make the following equation true: FDV of lunc = FDV of ustc.
-</style>
+3. Make the following equation true: FDV of lunc = FDV of ustc.
+
 
 
 
