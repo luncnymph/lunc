@@ -17,7 +17,7 @@ Our goal in 2023 is to repeg USTC to $0.1 and then we can quickly burn lunc with
 
 **HOW:** We can re-enable the marketswap module and set the cap of lunc at 10b and ustc at 10b.
 
-**WHEN:** when the price of luna hit $0.00014159. Planned date: before June 30, 2023
+**WHEN:** when the price of luna hit $0.00014159 (as of writing). Planned date: before June 30, 2023
 
 
 PS: we can expect to switch on the "repeg button" any time before the chain has restored its mint/burn function with the above price and cap settings.
