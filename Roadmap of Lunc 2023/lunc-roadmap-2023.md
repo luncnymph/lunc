@@ -27,7 +27,7 @@ S02: when the price of ustc on CEX is above, mint ustc into the market pool.
 
 2. The current burn tax policy doesn't change.
 
-  __3. Make the following equation true: FDV of lunc = FDV of ustc.__
+3. _Make the following equation true: FDV of lunc = FDV of ustc+ all other regional currencies._
 
 
 
