@@ -6,6 +6,8 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 	
 #lunc was born out of a disaster that everyone of us know back in May after TFL partially abandoned it. A group of volunteers called Terra Rebels came in to rescue it as the chain underwent some surgeries during the depeg including disabling IBC and marketSwap to stop minting and market arbitrage. Meanwhile the acceptance of new validators was closed to protect the existing ones who stayed to keep the chain alive given that the price of $lunc was falling to almost 0. 
 
+Now, we must restore all the orginal functionalities of the Luna Classic chain in order for all previous dApps to function again. More utilities will come live to further drive the adoption of USTC and other regional currencies.
+
 
 # Repeg $USTC w/ timeline
 
