@@ -10,8 +10,11 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 # Repeg $USTC w/ timeline
 
 **WHAT**: USTC can be pegged to $0.1 instead of $1 and all other local terra money to 0.1x their fiat value, which will get rid of 90% of the debt from the debacle.
+
 **HOW:** We can re-enable the marketswap module and set the cap of lunc at 10b and ustc at 10b.
+
 **WHEN:** when the price of luna hit $0.00014159. Planned date: before June 30, 2023
+
 
 PS: we can expect to switch on the "repeg button" any time before the chain has restored its mint/burn function with the above price and cap settings.
 
