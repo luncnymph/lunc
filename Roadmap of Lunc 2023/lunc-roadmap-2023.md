@@ -38,3 +38,5 @@ S02: when the price of ustc on CEX is above, mint ustc into the market pool.
 # Source a dedicated professional devs team
 # Budgeting
 # Procurement
+
+_Disclaimer: none of the above content is financial advice!!_
