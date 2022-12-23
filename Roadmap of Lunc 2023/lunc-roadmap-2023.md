@@ -19,7 +19,9 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 PS: we can expect to switch on the "repeg button" any time before the chain has restored its mint/burn function with the above price and cap settings.
 
 **Scenarios**
+
 S01: when the price of ustc on CEX is below 0.1, burn ustc until the balance of ustc hits 0 and wait. No minting of lunc.
+
 S02: when the price of ustc on CEX is above, mint ustc into the market pool.
 
 **Prerequist:** 
