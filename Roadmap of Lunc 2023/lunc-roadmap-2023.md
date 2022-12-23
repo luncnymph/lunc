@@ -8,7 +8,7 @@ As a community member and validator(lunc_nymph), I am trying to draft this roadm
 
 Now, we must restore all the orginal functionalities of the Luna Classic chain in order for all previous dApps to function again. More utilities will come live to further drive the adoption of USTC and other regional currencies.
 
-Our goal in 2023 is to repeg USTC to $0.1 and then we can quickly burn lunc with the price spill-over of ustc to 10b, when we can make ustc pegged to $1 in the future, for which the timeframe is not uncertain as it really depends how the whole ecosystem develop to drive adoption and demand.
+Our goal in 2023 is to repeg USTC to $0.1 and then we can quickly burn lunc with the price spill-over of ustc to 10b, when we can make ustc pegged to $1 in the future, for which the timeframe is uncertain as it really depends on how the whole ecosystem develops to drive adoption and demand.
 
 
 # Repeg $USTC w/ timeline
